@@ -1,5 +1,6 @@
 # CopyCentre
 Minecraft SRCCCC
+
 [Q]: Who are you?
  
 [Q]: Do you have any past client experience?
@@ -16,3 +17,4 @@ Minecraft SRCCCC
     
 [Q]: What's your mother tongue? (language)
      
+Please complete these qusetions to get more SRCCCCC.
