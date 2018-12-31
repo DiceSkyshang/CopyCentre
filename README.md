@@ -8,7 +8,7 @@ Minecraft SRCCCC
     
 [Q]: How long have you played Minecraft & when did you start playing?
     
-[Q]: Will you be active in our community & help improve Exhibition as a whole?
+[Q]: Will you be active in our community & help improve Copycentre as a whole?
     
 [Q]: Do you understand that if you leak or break our rules, you & your inviter will be blacklisted and banned from our communtiy? (consent)
      
